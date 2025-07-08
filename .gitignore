@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+data/
+notebooks/predicts
+notebooks/runs
+__pycache__
