@@ -16,7 +16,7 @@ A PyTorch implementation of object detection using EfficientNet backbone with Re
 ## 🔍 Overview
 
 This project implements an object detection model that combines:
-- **EfficientNet** (B0-B5) as feature extraction backbone
+- **EfficientNet** B4 as feature extraction backbone
 - **RetinaNet** as single-stage object detection head
 - **Feature Pyramid Network (FPN)** for multi-scale detection
 - **Focal Loss** for addressing class imbalance
